@@ -70,7 +70,7 @@ python3 BerrySentinel.py --no-tui  # curses puede no estar disponible en Termux
 ### Sin instalación (one-liner)
 
 ```bash
-curl -O https://raw.githubusercontent.com/dereeqw/BerrySentinel/main/BerrySentinel 
+curl -O https://raw.githubusercontent.com/dereeqw/BerrySentinel/main/BerrySentinel.py
 python3 BerrySentinel.py
 ```
 
