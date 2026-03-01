@@ -18,13 +18,13 @@ Detecta reverse shells, webshells, RATs, beacons C2 y frameworks como Meterprete
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║  BERRY SENTINEL v5.0 — Detector Conductual C2 · TUI Interactivo               ║
-║  Conexiones: 38 │ Amenazas: 2 │ Firmas: 1 │ via proc/open+ss │ 12ms │ #47    ║
+║  BERRY SENTINEL v5.0 — Detector Conductual C2 · TUI Interactivo                                 ║
+║  Conexiones: 38 │ Amenazas: 2 │ Firmas: 1 │ via proc/open+ss │ 12ms │ #47                       ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
-║ ID  SEV      PTS   PID    PROC    REMOTO                ESTADO  FIRMAS/TAGS    ║
+║ ID  SEV      PTS   PID    PROC    REMOTO                ESTADO  FIRMAS/TAGS                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
-║  3  █CRÍTICO  85   1337   bash    1.2.3.4:4444   ESTAB  ⚑Meterpreter SHELL→NET║
-║  7  ▲ALTO     52   2048   python3 5.6.7.8:8443   ESTAB  TLS-NOBR BCN(60s)     ║
+║  3  █CRÍTICO  85   1337   bash    1.2.3.4:4444   ESTAB  ⚑Meterpreter SHELL→NET.                ║
+║  7  ▲ALTO     52   2048   python3 5.6.7.8:8443   ESTAB  TLS-NOBR BCN(60s)                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
