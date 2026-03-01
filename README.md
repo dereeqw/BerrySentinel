@@ -49,8 +49,8 @@ Detecta reverse shells, webshells, RATs, beacons C2 y frameworks como Meterprete
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/berry-sentinel.git
-cd berry-sentinel
+git clone https://github.com/dereeqw/BerrySentinel.git
+cd BerrySentinel 
 
 # (Opcional pero recomendado) instalar psutil
 pip install psutil
@@ -70,7 +70,7 @@ python3 BerrySentinel.py --no-tui  # curses puede no estar disponible en Termux
 ### Sin instalación (one-liner)
 
 ```bash
-curl -O https://raw.githubusercontent.com/tu-usuario/berry-sentinel/main/BerrySentinel.py
+curl -O https://raw.githubusercontent.com/dereeqw/BerrySentinel/main/BerrySentinel 
 python3 BerrySentinel.py
 ```
 
